@@ -1,0 +1,12 @@
+Table of Contents:
+
+1. Confusion Matrix
+2. F1 Score
+3. Gain and Lift Charts
+4. Kolmogorov Smirnov Chart
+5. AUC – ROC
+6. Log Loss
+7. Gini Coefficient
+8. Concordant – Discordant Ratio
+9. Root Mean Squared Error
+10. Cross Validation (Not a metric though!)
